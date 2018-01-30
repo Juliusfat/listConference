@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131323758843",
+    "firebase_url": "https://listconference-a3242.firebaseio.com",
+    "project_id": "listconference-a3242",
+    "storage_bucket": "listconference-a3242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131323758843:android:ed4d1bd8d0bb4054",
+        "android_client_info": {
+          "package_name": "com.example.utilisateur.listconference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131323758843-rmlb9vdi19m3bi110nm7ru23kkajf244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utilisateur.listconference",
+            "certificate_hash": "c9f850d899d46a3dbe8a8b47f4249463302f9fac"
+          }
+        },
+        {
+          "client_id": "131323758843-f8s5ffagpaq2v79due50q6ipllvfrk5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejsiHQ3BKmUorh56ad7nTYRl4WNDVoQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131323758843-f8s5ffagpaq2v79due50q6ipllvfrk5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

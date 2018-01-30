@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/actionLogin"
+            android:icon="@drawable/ic_person_black"
+            android:title="Login"
+            android:onClick="onLogin"/>
+        <item
+            android:id="@+id/actionLogout"
+            android:icon="@drawable/ic_person_outline_black"
+            android:title="Logout"
+            android:onClick="onLogout"
+            android:visible="false"/>
+        <item
+            android:id="@+id/myConf"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Liste des conferences" />
+
+        <item
+            android:id="@+id/createConf"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Creer une conférence"
+            android:visible="false"/>
+
+        <item
+            android:id="@+id/validateConf"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Valider les conférences"
+            android:visible="false"/>
+    </group>
+
+
+
+</menu>
